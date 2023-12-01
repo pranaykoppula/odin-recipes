@@ -1,0 +1,36 @@
+body{
+    background-color:yellowgreen;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h1{
+    text-align: center;
+    color:darkgreen
+}
+ul, ol{
+    margin-left: 5%;
+    color: darkblue
+}
+h2,h3{
+    margin-left: 2.5%;
+    color:black
+}
+
+/* unvisited link */
+a:link {
+    color: blue;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: darkblue;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: black;
+  }
+  
+  /* selected link */
+  a:active {
+    color: magenta;
+  }
